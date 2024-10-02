@@ -1,0 +1,1 @@
+# plugins-squelch-tabs-and-accordions-shortcodes
